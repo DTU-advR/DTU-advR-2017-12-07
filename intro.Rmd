@@ -1,0 +1,19 @@
+---
+title: "DTU - advanced R"
+author: "Michał Burdukiewicz"
+output: ioslides_presentation
+---
+
+## About me
+
+ - michbur@github
+ - loves R and data visualisation
+ - enthusiast of [https://cran.r-project.org/package=mlr](mlr)
+
+## STWUR
+
+Wrocław R User Group (Stowarzyszenie Wrocławskich użytkowników R) - [stwur.pl](stwur.pl)
+
+## WhyR
+
+An R conference in Wrocław, 2-4.07.2018 [whyr2018.pl](whyr2018.pl).
