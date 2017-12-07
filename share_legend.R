@@ -3,7 +3,7 @@
 
 library(dplyr)
 library(ggplot2)
-librry(grid)
+library(grid)
 library(gridExtra)
 
 set.seed(1410)
@@ -41,7 +41,7 @@ grid.arrange(p1 + guides(fill = FALSE),
 grid.arrange(p1 + guides(fill = FALSE), 
              p2 + guides(fill = FALSE), 
              fill_legend, 
-             nrow = 1, widths = c(0.4, 0.4, 0.2))
+             nrow = 1, widths = c(0.45, 0.45, 0.1))
 
 lm <- rbind(c(1, 2),
             c(3, 3))
