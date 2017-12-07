@@ -17,3 +17,7 @@ Wrocław R User Group (Stowarzyszenie Wrocławskich użytkowników R) - [stwur.p
 ## WhyR
 
 An R conference in Wrocław, 2-4.07.2018 [whyr2018.pl](whyr2018.pl).
+
+## Our meeting
+
+https://tinyurl.com/dtu-adv
